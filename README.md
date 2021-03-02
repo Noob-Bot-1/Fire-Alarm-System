@@ -2,10 +2,10 @@
 
 CONTRIBUTORS:-
 
-        RIYA GOYAL   IIT2019096
-        MAITRY JADIYA IIT2019100 
-        SONAL IIT2019122
-        DEV BANSAL IIT2019132
+        RIYA GOYAL   
+        MAITRY JADIYA 
+        SONAL 
+        DEV BANSAL 
 
 
 **Abstract:**
