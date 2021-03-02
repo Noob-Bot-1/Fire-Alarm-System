@@ -34,3 +34,35 @@ Following are the interface screens and associated functionalities that are deve
     intervals
   d. Stop monitoring
   e. Quit()
+  
+ SYSTEM REQUIREMENTS
+
+      Operating System: Any 
+      jdk latest version 
+      Java Netbeans 
+      Functioning sensors
+      Smoke Sensors
+      Heat Sensors
+      CO Sensors
+      Proper internet connection 
+      Gmail account(For both Developer and User)
+
+
+DEVELOPMENT TOOLS
+
+      Java GUI Frameworks such as Swing & AWT API. 
+      Abstract Window Toolkit 
+      Java Applet 
+      Mail API. 
+      Java Collections Framework 
+      Extra Libraries:( refer zip file).
+
+
+
+
+FEATURES
+
+      1. Mailing Functionality(Implemented through jar files added in Libraries Section of The Project) 
+      2. Printing Functionality(Implemented through jar files added in Libraries of the Project) 3. jcalendar-1.4.jar file for Calendar Dates functionality implemented in Visitor Panel for Check-In Date and Check-Out Date(text fields) since Java GUI Frameworks such as Swing & AWT API does not support Datepicker implicitly. 
+      4. The mail would be sent to the recipient to check the building at the specified location.
+
