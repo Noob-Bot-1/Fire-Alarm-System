@@ -1,5 +1,13 @@
 # Fire-Alarm-System
 
+CONTRIBUTORS:-
+
+        RIYA GOYAL   IIT2019096
+        MAITRY JADIYA IIT2019100 
+        SONAL IIT2019122
+        DEV BANSAL IIT2019132
+
+
 **Abstract:**
 We've developed a GUI enabled file alarm system for CC3 building (IIIT Allahabad). The system
 involves inputs of various sensor devices like heat sensor, smoke detector and carbon
@@ -14,25 +22,32 @@ Following are the interface screens and associated functionalities that are deve
   a. Register button:
   A new screen appears to register the sensor along with the
   following details:
+  
     i. Sensor ID: <Textfield> (ID type validation)
     ii. Sensor type: <Dropdown>
     iii. Floor No: <Textfield> (Number type validation)
     iv. Install Location: <Textfield> (Area type validation in CC3 building)
+    
   b. Configuration button:
   A new screen appears to configure:
+  
     i. Threshold of each type of sensor
     ii. Duration of alarm
     iii. Sound of alarm
     iv. Log interval
+    
   c. Start monitoring
   A new screen appears that displays:
+  
     i. Reading being sensed at each sensor.
     ii. If the sensed value crosses the threshold at some location then an alarm
     must be generated along with the message in the display panel showing
     the location of the sensor that triggered the alarm.
     iii. Log report should be generated and saved for the events at regular
     intervals
+    
   d. Stop monitoring
+  
   e. Quit()
   
  SYSTEM REQUIREMENTS
@@ -65,4 +80,6 @@ FEATURES
       1. Mailing Functionality(Implemented through jar files added in Libraries Section of The Project) 
       2. Printing Functionality(Implemented through jar files added in Libraries of the Project) 3. jcalendar-1.4.jar file for Calendar Dates functionality implemented in Visitor Panel for Check-In Date and Check-Out Date(text fields) since Java GUI Frameworks such as Swing & AWT API does not support Datepicker implicitly. 
       4. The mail would be sent to the recipient to check the building at the specified location.
+
+
 
